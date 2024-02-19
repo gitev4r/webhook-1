@@ -1,0 +1,6 @@
+@webh_HostAddress = http://localhost:5168
+
+GET {{webh_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
